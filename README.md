@@ -2,7 +2,7 @@
 
 ###Title
 
-ex. Resolve how to update Webpack to version 2 with tree-shaking
+ex. Resolve how to update Webpack to version 2 with tree-shaking and other new, stunning features
 
 ###Date
 
